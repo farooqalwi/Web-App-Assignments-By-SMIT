@@ -4,5 +4,5 @@ Welcome to Saylani Mass IT Online Training Program
 
 Web & Mobile Hybrid App Development
 
-#Technologies
+Technologies
 HTML5, CSS3, Linux, Firebase Hosting, GIT, JavaScript, JS(ES6), ReactJS, Redux, ReactNative, MongoDB,  ExpressJS, NodeJS, Docker, Kubernetes
