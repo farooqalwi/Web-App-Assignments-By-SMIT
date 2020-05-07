@@ -1,0 +1,190 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.header-top-bar {
+    background-color: blue;
+    color: white;
+    height: 100%;
+    text-align: center;
+    padding-top: 10px;
+    padding: 10px;
+}
+
+.upper-header-donation-btn {
+    color: green;
+}
+
+.main-header {
+    background-color: whitesmoke;
+    text-align: center;
+    height: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.main-header-buttons
+{
+    margin-left: 80px;
+}
+
+.introduction {
+    text-align: center;
+    background-color: whitesmoke;   
+    height: 100%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.intro-content {
+    text-align: justify;
+    font-size: 1em;
+    padding: 20px 150px 15px 150px;
+    width: 100%;
+}
+
+.intro-service-quantity {
+    width: 100%;
+    height: 100%;
+    background-color: blue;
+}
+
+.daily-dasterkhan {
+    display: inline-block;
+    color: white;
+    padding: 60px 50px 60px 50px;
+}
+
+.family-adomption {
+    display: inline-block;
+    color: white;
+    padding: 60px 50px 60px 50px;
+}
+
+.medical {
+    display: inline-block;
+    color: white;
+    padding: 60px 50px 60px 50px;
+}
+
+.education {
+    display: inline-block;
+    color: white;
+    padding: 60px 50px 60px 50px;
+}
+
+.intro-heading-sec {
+    padding-top: 50px;
+}
+
+.we-are-doing-service {
+    padding-top: 50px;
+    color: blue;
+    font-weight: bold;
+    font-size: large;
+    text-align: center;
+}
+
+.we-are-doing-online-sadqa,
+.we-are-doing-welfare,
+.we-are-doing-medical,
+.we-are-doing-dasterkhan,
+.we-are-doing-ROplant,
+.we-are-doing-education 
+{
+    display: inline-block;
+    background-color: white;
+    margin: 20px 20px 20px 20px;
+    width: 350px;
+    height: 200px;
+    padding: 40px;
+}
+
+.mission
+{
+    margin: 50px 0px 20px 0px;
+}
+
+.hepatitis,.housing,.itLiteracy,.tharparkar
+{
+    display: inline-block;
+    background-color: whitesmoke;
+    margin: 20px 20px 20px 20px;
+    width: 300px;
+    height: 90px;
+    padding: 25px;
+}
+
+.projects-img
+{
+    padding-right: 20px;
+}
+
+.upcoming-projects,.upcoming-events
+{
+    display: inline-block;
+    color: blue;
+    font-weight: bold;
+    font-size: large;
+}
+
+.upcoming-events-para
+{
+    color: lightgray;
+    font-weight: normal;
+    font-size: medium;
+}
+
+.projects-img,.projects-state
+{
+    display: inline-block;
+}
+
+.useful-links,.connect-us
+{
+    color: white;
+    font-size: large;
+    font-weight: bold;
+
+}
+
+.image-gallery
+{
+    text-align: center;
+    margin: 40px 0px 40px 0px;
+}
+
+.gallery-images
+{
+    margin: 20px 20px 20px 20px;
+}
+
+.footer
+{
+    margin-top: 100px ;
+    padding: 50px;
+    color: gray;
+    background-color: darkslategray;
+    font-size: small;
+}
+
+.copyright
+{
+    height: 100%;
+    width: 100%;
+    padding: 5px 0 5px 0;
+    background-color: blue;
+    color: white;
+}
+
+.copyright-state
+{
+    padding: 10px 0 0px 120px;
+}
+
+.back_top
+{
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+}
