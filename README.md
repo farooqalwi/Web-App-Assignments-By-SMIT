@@ -7,3 +7,7 @@ Web & Mobile Hybrid App Development
 Technologies
 
 HTML5, CSS3, Linux, Firebase Hosting, GIT, JavaScript, JS(ES6), ReactJS, Redux, ReactNative, MongoDB,  ExpressJS, NodeJS, Docker, Kubernetes
+
+
+## Click here to visit website
+[Preview](https://web-app-assignments-by-smit.web.app)
